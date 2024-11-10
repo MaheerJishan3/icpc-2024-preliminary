@@ -1,6 +1,10 @@
 # ICPC Preliminary Dhaka 2024 Problem Set
 
-This repository contains the problem set and solutions from the **ICPC Preliminary Dhaka Site 2024** competition. Our goal is to not only document our submitted codes from the competition but also to provide full solutions to all eight problem sets, including explanations and algorithms used in each problem.
+This repository contains the problem set and solutions of **DIU_VENGEANCE** team from the **ICPC Preliminary Dhaka Site 2024** competition. Our goal is to not only document our submitted codes from the competition but also to provide full solutions to all eight problem sets, including explanations and algorithms used in each problem.
+
+We tried to solve problems C, E & F but only C & E were accepted.
+
+Preliminary rank: 485
 
 ## Contents
 
