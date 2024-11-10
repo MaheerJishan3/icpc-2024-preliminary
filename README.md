@@ -11,19 +11,8 @@ This repository contains the problem set and solutions from the **ICPC Prelimina
   - Solution strategy and algorithms used
   - Code implementation with comments for clarity
 
-## Repository Structure
-
-- **Problem_Set/**: Contains the `ICPC Preliminary Dhaka Site 2024 Problem Set.pdf`.
-- **Competition_Submissions/**: Holds the codes submitted during the competition.
-- **Solutions/**: Organized by problem, each folder includes:
-  - `solution_code.ext`: The complete code for the solution.
-  - `explanation.md`: Detailed explanation of the approach, algorithms, and solution strategy.
 
 ## Contributors
 
 - [Maheer Alam](https://github.com/MaheerJishan3)
 - [Fardin Kamal](https://github.com/fardinkamal62)
-
-## License
-
-This project is for educational purposes, sharing our experience and solutions from the ICPC Preliminary Dhaka Site 2024. Please refer to the license file for terms and conditions.
